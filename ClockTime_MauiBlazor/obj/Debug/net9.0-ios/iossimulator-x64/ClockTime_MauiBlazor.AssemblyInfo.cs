@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClockTime_MauiBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9607205586e0bd5cc7577248b69a11296a7f20e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClockTime_MauiBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClockTime_MauiBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
