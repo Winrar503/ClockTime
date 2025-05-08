@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ClockTime_MauiBlazor.props" />
+</Project>

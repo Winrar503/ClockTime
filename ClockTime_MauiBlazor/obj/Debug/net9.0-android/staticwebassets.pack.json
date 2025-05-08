@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Programing\\.Net\\ClockTime_MauiBlazor\\ClockTime_MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\ClockTime_MauiBlazor.styles.css",
+      "PackagePath": "staticwebassets\\ClockTime_MauiBlazor.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Programing\\.Net\\ClockTime_MauiBlazor\\ClockTime_MauiBlazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Programing\\.Net\\ClockTime_MauiBlazor\\ClockTime_MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Programing\\.Net\\ClockTime_MauiBlazor\\ClockTime_MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Programing\\.Net\\ClockTime_MauiBlazor\\ClockTime_MauiBlazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.ClockTime_MauiBlazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.ClockTime_MauiBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.ClockTime_MauiBlazor.props",
+      "PackagePath": "build\\ClockTime_MauiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.ClockTime_MauiBlazor.props",
+      "PackagePath": "buildMultiTargeting\\ClockTime_MauiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.ClockTime_MauiBlazor.props",
+      "PackagePath": "buildTransitive\\ClockTime_MauiBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

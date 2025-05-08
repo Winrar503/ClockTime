@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Programing\.Net\ClockTime_MauiBlazor\ClockTime_MauiBlazor\wwwroot\css\app.css
+C:\Users\Admin\Desktop\Programing\.Net\ClockTime_MauiBlazor\ClockTime_MauiBlazor\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\Admin\Desktop\Programing\.Net\ClockTime_MauiBlazor\ClockTime_MauiBlazor\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\Admin\Desktop\Programing\.Net\ClockTime_MauiBlazor\ClockTime_MauiBlazor\wwwroot\index.html
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
